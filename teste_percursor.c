@@ -12,15 +12,6 @@ int main() {
     raiz->direita->esquerda = criar_no(6);
     raiz->direita->direita = criar_no(7);
 
-    /*
-    A árvore criada tem esta estrutura:
-           1
-         /   \
-        2     3
-       / \   / \
-      4   5 6   7
-    */
-
     printf("Percurso em Pre-ordem: ");
     pre_ordem(raiz);
     printf("\n");
