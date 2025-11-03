@@ -1,5 +1,20 @@
 # Estrutura-de-Dados-Árvore-binaria-e-de-busca
-Trabalho de estrutura de dados sobre Árvores em C
+UNIP – Universidade Paulista
+Ciência da Computação (CC)
+
+Professor
+André
+
+Matéria
+Estrutura de Dados
+
+Aluno
+João Vitor Lima Carreira
+R0919C2
+
+Trabalho
+Árvores Binárias e Árvores Binárias de Busca
+
 
 Objetivo do trabalho:
 Entender como funciona a estrutura de árvore em C.
